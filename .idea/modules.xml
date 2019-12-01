@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-example.iml" filepath="$PROJECT_DIR$/.idea/modules/java-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-example.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-example.test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-example.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.stqa.java-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.stqa.java-example.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.stqa.java-example.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.stqa.java-example.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/selenium-tr.iml" filepath="$PROJECT_DIR$/.idea/selenium-tr.iml" />
     </modules>
   </component>

@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848229f0-3a7a-4f23-9de9-bb119e4251fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_beust_jcommander_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_testng_testng_6_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/ru.stqa.java-example.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/ru.stqa.java-example.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTestChrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTestFireFox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTestFireFoxNightly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTestIE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/java-example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/java-example.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/LoginToAdminPanelTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/MyFirstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/MyFirstTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTestFireFoxESR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/MyFirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/MyFirstTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java-example/.gradle/" />
     <ignored path="$PROJECT_DIR$/java-example/build/" />
@@ -26,38 +41,45 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java-example" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/MyFirstTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="15" selection-start-line="15" selection-end-line="35" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="289">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTest.java">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/MyFirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            <state relative-caret-position="170">
+              <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTestFireFoxESR.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,24 +102,32 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-example/build.gradle" />
-        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/MyFirstTest.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanel.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/MyFirstTest.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/IETest.java" />
+        <option value="$PROJECT_DIR$/java-example/build.gradle" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTest.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTestIE.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTestChrome.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/FFTest.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTestFireFox.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTestFireFoxNightly.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTestFireFoxESR.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="113" />
-    <option name="y" value="158" />
-    <option name="width" value="1594" />
-    <option name="height" value="808" />
+    <option name="x" value="65" />
+    <option name="y" value="4" />
+    <option name="width" value="1778" />
+    <option name="height" value="1016" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,14 +151,14 @@
               <item name="selenium-tr" type="462c0819:PsiDirectoryNode" />
               <item name="java-example" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium-tr" type="b2602c69:ProjectViewProjectNode" />
               <item name="selenium-tr" type="462c0819:PsiDirectoryNode" />
               <item name="java-example" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -136,7 +166,7 @@
               <item name="selenium-tr" type="462c0819:PsiDirectoryNode" />
               <item name="java-example" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="selenium" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -145,15 +175,20 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_pft/addressbook-web-tests" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.stqa.training.selenium" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -167,8 +202,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LoginToAdminPanelTest.loginToAdminPanelTest">
-    <configuration name="LoginToAdminPanelTest.loginToAdminPanelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MyFirstTest">
+    <configuration name="LoginToAdminPanelTestFireFoxESR" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-example.test" />
       <extension name="coverage">
         <pattern>
@@ -177,14 +212,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.stqa.training.selenium" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.LoginToAdminPanelTest" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.LoginToAdminPanelTestFireFoxESR" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginToAdminPanelTestFireFoxESR.loginToAdminPanelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-example.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.training.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.training.selenium" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.LoginToAdminPanelTestFireFoxESR" />
       <option name="METHOD_NAME" value="loginToAdminPanelTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginToAdminPanelTest.myFistTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginToAdminPanelTestFireFoxNightly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-example.test" />
       <extension name="coverage">
         <pattern>
@@ -193,14 +243,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.stqa.training.selenium" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.LoginToAdminPanelTest" />
-      <option name="METHOD_NAME" value="myFistTest" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.LoginToAdminPanelTestFireFoxNightly" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginToAdminPanelTestFireFoxNightly.loginToAdminPanelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-example.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.training.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.training.selenium" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.LoginToAdminPanelTestFireFoxNightly" />
+      <option name="METHOD_NAME" value="loginToAdminPanelTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFirstTest.myFistTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-example.test" />
       <extension name="coverage">
         <pattern>
@@ -210,17 +275,18 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.stqa.training.selenium" />
       <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.MyFirstTest" />
-      <option name="METHOD_NAME" value="myFistTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LoginToAdminPanelTest.loginToAdminPanelTest" />
-        <item itemvalue="JUnit.LoginToAdminPanelTest.myFistTest" />
-        <item itemvalue="JUnit.MyFirstTest.myFistTest" />
+        <item itemvalue="JUnit.MyFirstTest" />
+        <item itemvalue="JUnit.LoginToAdminPanelTestFireFoxESR" />
+        <item itemvalue="JUnit.LoginToAdminPanelTestFireFoxNightly.loginToAdminPanelTest" />
+        <item itemvalue="JUnit.LoginToAdminPanelTestFireFoxNightly" />
+        <item itemvalue="JUnit.LoginToAdminPanelTestFireFoxESR.loginToAdminPanelTest" />
       </list>
     </recent_temporary>
   </component>
@@ -238,24 +304,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyFirstTest_myFistTest - 2019.11.24 at 18h 17m 18s.xml">
-      <configuration name="MyFirstTest.myFistTest" configurationId="JUnit" />
+    <history-entry file="LoginToAdminPanelTestFireFoxESR_loginToAdminPanelTest - 2019.12.01 at 16h 42m 22s.xml">
+      <configuration name="LoginToAdminPanelTestFireFoxESR.loginToAdminPanelTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginToAdminPanel_myFistTest - 2019.11.24 at 22h 41m 19s.xml">
-      <configuration name="LoginToAdminPanel.myFistTest" configurationId="JUnit" />
+    <history-entry file="LoginToAdminPanelTestFireFoxESR_loginToAdminPanelTest - 2019.12.01 at 16h 43m 19s.xml">
+      <configuration name="LoginToAdminPanelTestFireFoxESR.loginToAdminPanelTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginToAdminPanel_myFistTest - 2019.11.24 at 22h 43m 45s.xml">
-      <configuration name="LoginToAdminPanel.myFistTest" configurationId="JUnit" />
+    <history-entry file="LoginToAdminPanelTestFireFoxESR - 2019.12.01 at 16h 45m 15s.xml">
+      <configuration name="LoginToAdminPanelTestFireFoxESR" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginToAdminPanel_myFistTest - 2019.11.24 at 22h 44m 28s.xml">
-      <configuration name="LoginToAdminPanel.myFistTest" configurationId="JUnit" />
+    <history-entry file="LoginToAdminPanelTestFireFoxESR - 2019.12.01 at 16h 47m 28s.xml">
+      <configuration name="LoginToAdminPanelTestFireFoxESR" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginToAdminPanelTestFireFoxNightly - 2019.12.01 at 17h 24m 59s.xml">
+      <configuration name="LoginToAdminPanelTestFireFoxNightly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginToAdminPanelTestFireFoxNightly - 2019.12.01 at 17h 52m 25s.xml">
+      <configuration name="LoginToAdminPanelTestFireFoxNightly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginToAdminPanelTestFireFoxNightly_loginToAdminPanelTest - 2019.12.01 at 18h 08m 07s.xml">
+      <configuration name="LoginToAdminPanelTestFireFoxNightly.loginToAdminPanelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginToAdminPanelTestFireFoxESR - 2019.12.01 at 18h 25m 24s.xml">
+      <configuration name="LoginToAdminPanelTestFireFoxESR" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginToAdminPanelTestFireFoxESR - 2019.12.01 at 18h 30m 14s.xml">
+      <configuration name="LoginToAdminPanelTestFireFoxESR" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginToAdminPanelTestFireFoxESR - 2019.12.01 at 18h 56m 43s.xml">
+      <configuration name="LoginToAdminPanelTestFireFoxESR" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27878466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -263,19 +347,18 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Build" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24052005" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32827735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -284,33 +367,116 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Gradle" order="8" weight="0.2945285" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2788126" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25141564" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32842582" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Gradle" order="8" visible="true" weight="0.2945285" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/FFTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/IETest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="19" selection-start-line="19" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTestChrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTestFireFox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTestIE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTestFireFoxNightly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="29" column="51" lean-forward="true" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTestFireFoxESR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/MyFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="15" selection-start-line="15" selection-end-line="35" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LoginToAdminPanelTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
         </state>
       </provider>
     </entry>
