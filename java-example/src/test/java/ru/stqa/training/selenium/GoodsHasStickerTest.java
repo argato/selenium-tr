@@ -24,10 +24,20 @@ public class GoodsHasStickerTest {
   @Test
   public void goodsHasStickerTest(){
     driver.get("http://localhost/litecart");
+    int stickersCount;
+    int errorsCount = 0;
+    List<WebElement> goodsCount;
 
-    List<WebElement> goods = driver.findElements(By.className(("image-wrapper")));
-    List<WebElement> goodsHasSticker = driver.findElements(By.xpath("//*[@class='image-wrapper'][.//*[contains(@class,'sticker')]]"));
-    Assert.assertEquals(goods, goodsHasSticker);
+    goodsCount  = driver.findElements(By.xpath("//li[contains(@class,'product')]"));
+
+    for(WebElement item: goodsCount){
+      stickersCount = item.findElements(By.xpath(".//div[contains(@class,'sticker')]")).size();
+      if(stickersCount != 1) {
+        errorsCount++;
+      }
+    }
+
+    Assert.assertEquals(0, errorsCount);
   }
 
   @After
